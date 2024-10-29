@@ -1,24 +1,24 @@
 criaCartao(
-    'Programação',
-    'O que é JavaScript?',
-    'O javaScript é uma linguagem de programação'
+    'Eu (ISA)',
+    'Qual minha comida favorita?',
+    'Strogonoff!'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França',
-    'A capital da França é Paris'
+    'Eu (ISA)',
+    'Qual é minha cor preferida?',
+    'Roxo'
 )
 
 criaCartao(
-    'Programação',
-    'O que é função?',
-    'Uma função é um bloco de códigos que executa uma função'
+    'Eu (ISA)',
+    'O que mais gosto de fazer',
+    'Ver séries'
 )
 
 criaCartao(
-    'Matemática',
-    'Qual o resultado de 6 x 8?',
-    'O resultado é 48'
+    'Eu (ISA)',
+    'Quais perosnagens da marvel mais gosto?',
+    'Homem aranha e homem de ferro'
 )
 
